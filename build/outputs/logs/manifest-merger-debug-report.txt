@@ -1,0 +1,104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:3:11-59
+	android:versionName
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:5:11-38
+		INJECTED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml
+		INJECTED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:4:11-42
+		INJECTED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml
+		INJECTED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:support-v4:25.0.0] /Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.0] /Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.0.0] /Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml
+		INJECTED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:8:9-35
+uses-permission#android.permission.INTERNET
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:12:22-76
+application
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:14:5-45:19
+MERGED from [com.android.support:support-v4:25.0.0] /Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:16:9-49
+	android:theme
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:18:9-40
+activity#com.amazon.identity.auth.device.workflow.WorkflowActivity
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:19:9-34:20
+	android:launchMode
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:22:13-44
+	android:allowTaskReparenting
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:21:13-48
+	android:theme
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:23:13-59
+	android:name
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:20:13-85
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:24:13-33:29
+action#android.intent.action.VIEW
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:25:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:27:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:28:27-75
+data
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:30:17-32:44
+	android:host
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:31:21-52
+		INJECTED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml
+	android:scheme
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:32:21-42
+activity#com.amazon.identity.auth.device.lwaapp.LoginActivity
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:35:9-44:20
+	android:label
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:38:13-45
+	android:configChanges
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:37:13-72
+	android:name
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:36:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from /Users/swayamagrawal/Desktop/AmazonLogin/AndroidManifest.xml:42:27-74

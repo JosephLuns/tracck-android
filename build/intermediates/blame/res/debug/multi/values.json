@@ -1,0 +1,160 @@
+[
+    {
+        "outputFile": "/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "/Users/swayamagrawal/Desktop/AmazonLogin/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 38,
+                    "endOffset": 128
+                },
+                "from": {
+                    "file": "/Users/swayamagrawal/Desktop/AmazonLogin/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 133,
+                    "endColumn": 40,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/Users/swayamagrawal/Desktop/AmazonLogin/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endColumn": 49,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "/Users/swayamagrawal/Desktop/AmazonLogin/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 200,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "/Users/swayamagrawal/Desktop/AmazonLogin/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endColumn": 113,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "/Users/swayamagrawal/Desktop/AmazonLogin/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 63,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "/Users/swayamagrawal/Desktop/AmazonLogin/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 41,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "/Users/swayamagrawal/Desktop/AmazonLogin/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 645,
+                    "endColumn": 50,
+                    "endOffset": 691
+                },
+                "from": {
+                    "file": "/Users/swayamagrawal/Desktop/AmazonLogin/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 696,
+                    "endColumn": 55,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "/Users/swayamagrawal/Desktop/AmazonLogin/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 830
+                },
+                "from": {
+                    "file": "/Users/swayamagrawal/Desktop/AmazonLogin/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 835,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 902
+                },
+                "from": {
+                    "file": "/Users/swayamagrawal/Desktop/AmazonLogin/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

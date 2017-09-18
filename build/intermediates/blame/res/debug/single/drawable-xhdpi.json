@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/res/merged/debug/drawable-xhdpi/btnlwa_gold_loginwithamazon.png",
+        "source": "/Users/swayamagrawal/Desktop/AmazonLogin/res/drawable-xhdpi/btnlwa_gold_loginwithamazon.png"
+    },
+    {
+        "merged": "/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/res/merged/debug/drawable-xhdpi/btnlwa_launcher.png",
+        "source": "/Users/swayamagrawal/Desktop/AmazonLogin/res/drawable-xhdpi/btnlwa_launcher.png"
+    },
+    {
+        "merged": "/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/res/merged/debug/drawable-xhdpi/btnlwa_gold_loginwithamazon_pressed.png",
+        "source": "/Users/swayamagrawal/Desktop/AmazonLogin/res/drawable-xhdpi/btnlwa_gold_loginwithamazon_pressed.png"
+    }
+]

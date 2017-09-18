@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_0efe7ce8b485172ee4667526fba34b24eec19580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swayamagrawal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_a8d291e32444255f48d348e20071074b626bf9b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_7f1b0b6318adcc2eb0c48b2f7976ef4ae678b779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_7061e7278379527b3f483accd6b9bed8eafed92a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_985520c7592c969494e27e9cdd3caaf04c5b777c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_92058817d8ae09fc381706fb226e8ff6d771ab72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_05febd66e60881fff719a82df122c74008382603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_9bf1354d47e4059554f9a2d13f474f0f5a10b150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swayamagrawal/Desktop/AmazonLogin/libs/login-with-amazon-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07e97cdca6b4b19170abf9c53baf09d24e5597b9">
+        <dex dex="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/pre-dexed/debug/login-with-amazon-sdk_4af139240921f4493895911db18c9f0490d9375f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_5dee5f989a2f195c11154e263d649b1045ea7c2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3b99acd8e47ae6b73cab9bd765329894a022718e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_bf50ff7f351f87a96ddf6c2f049f80396aedc5b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/swayamagrawal/Desktop/AmazonLogin/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_64e888076153ebf423fe60adb0cb0f4687466b06.jar" />
+    </item>
+
+</items>
